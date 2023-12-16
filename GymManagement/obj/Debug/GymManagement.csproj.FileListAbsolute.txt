@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\GymManagement\GymManagement\bin\Debug\GymManagement.exe.config
+C:\Users\Dell\source\repos\GymManagement\GymManagement\bin\Debug\GymManagement.exe
+C:\Users\Dell\source\repos\GymManagement\GymManagement\bin\Debug\GymManagement.pdb
+C:\Users\Dell\source\repos\GymManagement\GymManagement\obj\Debug\GymManagement.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\GymManagement\GymManagement\obj\Debug\GymManagement.Form1.resources
+C:\Users\Dell\source\repos\GymManagement\GymManagement\obj\Debug\GymManagement.Properties.Resources.resources
+C:\Users\Dell\source\repos\GymManagement\GymManagement\obj\Debug\GymManagement.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\GymManagement\GymManagement\obj\Debug\GymManagement.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\GymManagement\GymManagement\obj\Debug\GymManagement.exe
+C:\Users\Dell\source\repos\GymManagement\GymManagement\obj\Debug\GymManagement.pdb
+C:\Users\Dell\source\repos\GymManagement\GymManagement\obj\Debug\GymManagement.NewMember.resources
+C:\Users\Dell\source\repos\GymManagement\GymManagement\obj\Debug\GymManagement.Login.resources
